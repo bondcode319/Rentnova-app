@@ -5,6 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This a development of a Rent Application called Rentnova this helps customers across 
+a given area easily find accomodation contact landlords or agents, sign contracts and
+leases bewteen them.
 
 A few resources to get you started if this is your first Flutter project:
 
