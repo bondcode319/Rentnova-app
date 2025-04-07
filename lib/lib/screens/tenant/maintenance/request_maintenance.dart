@@ -1,9 +1,6 @@
 // lib/screens/tenant/maintenance/request_maintenance.dart
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:rentnova/models/maintenance.dart';
-import 'package:rentnova/providers/maintenance_provider.dart';
-import 'package:rentnova/widgets/image_picker_grid.dart';
 
 class RequestMaintenanceScreen extends StatefulWidget {
   final String propertyId;

@@ -1,9 +1,11 @@
 // lib/screens/tenant/application/application_form.dart
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:rentnova/lib/models/property.dart';
 import 'package:rentnova/models/property.dart';
 import 'package:rentnova/providers/application_provider.dart';
-import 'package:rentnova/widgets/document_upload.dart';
+import 'package:rentnova/providers/user_provider.dart';
+import 'package:rentnova/lib/widgets/document_upload.dart';
 
 class ApplicationFormScreen extends StatefulWidget {
   final PropertyModel property;

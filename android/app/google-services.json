@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152483220026",
+    "project_id": "rentnov",
+    "storage_bucket": "rentnov.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152483220026:android:ab8911096ed8b4ec860303",
+        "android_client_info": {
+          "package_name": "com.example.rentnova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFl6DgBGGiUJcyVzwj2ODj66bWm1l-mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

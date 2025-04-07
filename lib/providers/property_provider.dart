@@ -45,6 +45,12 @@ class Property {
     );
   }
 
+  get status => null;
+
+  String get title => null;
+
+  String get location => null;
+
   Map<String, dynamic> toMap() {
     return {
       'ownerId': ownerId,

@@ -1,7 +1,7 @@
 // lib/screens/admin/dashboard.dart
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:rentnova/models/property.dart';
+import 'package:rentnova/lib/models/property.dart';
 import 'package:rentnova/providers/property_provider.dart';
 import 'package:rentnova/providers/user_provider.dart';
 
