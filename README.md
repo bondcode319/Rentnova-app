@@ -14,6 +14,14 @@ User Feedback
 Scaling of final code written (State management River pod)
 Finally depolying to Appstore and Playstore
 
+Attached are the link to the App functions and UI design
+
+https://drive.google.com/file/d/1BKzxq6bGj-I0UkJblGWJeI0qJhp8oT5W/view?usp=drive_link, 
+https://drive.google.com/file/d/12vzaoQlmOf-EDzymDz-ytIbXJdoGHv1n/view?usp=drive_link,
+https://drive.google.com/file/d/1KwSRduH6H_CQLZiQ519SKiZ1_52eGJbw/view?usp=drive_link, 
+https://drive.google.com/file/d/1kXbggo6tcXVYZJNkcJA7fuvlxnuniLdq/view?usp=drive_link, 
+https://drive.google.com/file/d/1NrewyDueC8bow_bPRUDHoWLVTvDVd72A/view?usp=drive_link
+
 
 
 A few resources to get you started if this is your first Flutter project:
