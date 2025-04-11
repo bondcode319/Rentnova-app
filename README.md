@@ -1,13 +1,20 @@
 # rentnova
 
-A new Flutter project.
+Rentnova 
+This is application is a work in progress for a rent services provided via an application for both IOS and Android. 
+This project is being built with flutter and Dart.
+Project is broken down into 8 implemention phases.
+Project planning 
+These include namely design (Wire frames, Figma designs etc) 
+Sketching of the Application (necessary functions)
+Writing of Code (Dart)
+Setting up of the Backend (Fasebase)
+Presentation of the MVP (Miniumum Viable Product)
+User Feedback
+Scaling of final code written (State management River pod)
+Finally depolying to Appstore and Playstore
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-This a development of a Rent Application called Rentnova this helps customers across 
-a given area easily find accomodation contact landlords or agents, sign contracts and
-leases bewteen them.
 
 A few resources to get you started if this is your first Flutter project:
 
