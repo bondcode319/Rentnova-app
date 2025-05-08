@@ -156,7 +156,7 @@ class _AddPropertyScreenState extends State<AddPropertyScreen> {
                 decoration: const InputDecoration(labelText: 'Title*'),
                 validator: (value) {
                   if (value == null || value.isEmpty) {
-                    return 'Please enter a title';
+                    return 'Please enter title';
                   }
                   return null;
                 },
