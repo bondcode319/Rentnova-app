@@ -169,8 +169,8 @@ class _AddPropertyScreenState extends State<AddPropertyScreen> {
                   if (value == null || value.isEmpty) {
                     return 'Please enter a description';
                   }
-                  if (value.length < 30) {
-                    return 'Description should be at least 30 characters';
+                  if (value.length < 35) {
+                    return 'Description should be at least 35 characters';
                   }
                   return null;
                 },
